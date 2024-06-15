@@ -1,3 +1,5 @@
+//Shakib Khan Sourov 
+//Northern University Bangladesh
 #include<bits/stdc++.h>
 using namespace std;
 bool Operator(char ch){
